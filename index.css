@@ -256,6 +256,7 @@ align-items: center;
 
 .sec2_head{
     width: max-content;
+    margin: 20px;
 }
    .sec21{
     flex-direction: column;
